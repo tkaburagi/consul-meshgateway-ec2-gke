@@ -1,4 +1,4 @@
-![](gke-ec.png)
+![](gke-ec2.png)
 
 
 ## Setup up AWS side
