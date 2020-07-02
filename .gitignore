@@ -1,0 +1,7 @@
+*.pem
+login-k8s-2.sh
+login-k8s.sh
+consul-federation-secret.yaml
+memo
+setup.sh
+consumer-aws/
